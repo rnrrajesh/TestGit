@@ -24,6 +24,7 @@ public class MainApp {
 			//ldapMgr.getGroupDetailsByGroupName("s");
 			//ldapMgr.getAllGroups();
 			//ldapMgr.getMembersByGroupName("sales");
+			System.out.println("Testing Git Repository");
 
 		} catch (Exception e) {
 			e.printStackTrace();
